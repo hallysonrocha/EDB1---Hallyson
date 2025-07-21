@@ -1,4 +1,4 @@
-# EDB1 - Hallyson
+# EDB1 - Hallyson Rocha
 Questões teóricas da atividade de reposição da unidade 2 de EDB1.
 
 
