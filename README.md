@@ -3,7 +3,6 @@ Questões teóricas da atividade de reposição da unidade 2 de EDB1.
 
 
 Questão 2
-
 Na função selectionsort, o que acontece se trocarmos for (i = 0 por for (i = 1? E o que acontece se trocarmos for (i = 0; i < n-1 por for (i = 0; i < n ?
 
 Resposta:
